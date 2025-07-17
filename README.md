@@ -14,10 +14,10 @@ An interactive BMI calculator built in Python using Jupyter Notebook. Users can 
 
 The user will be asked questions like:
 
-Enter your name:
-Enter your weight in pounds (or press Enter if you don't know):
-Enter your weight in kilograms:
-Enter your height in inches (or press Enter if you don't know):
-Enter your height in centimeters:
+- Enter your name:
+- Enter your weight in pounds (or press Enter if you don't know):
+- Enter your weight in kilograms:
+- Enter your height in inches (or press Enter if you don't know):
+- Enter your height in centimeters:
 
 Then, the BMI will be calculated and a health message will be shown.
